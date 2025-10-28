@@ -21,6 +21,3 @@ Built entirely in **Java**, it demonstrates strong use of:
 * MVC design pattern
 
 
-
-##  Project Structure
-
