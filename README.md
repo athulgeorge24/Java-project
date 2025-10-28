@@ -1,24 +1,26 @@
-The UniSeat System is a Java-based smart seating arrangement management application built using the Swing GUI framework.
-Its main purpose is to simplify, automate, and visualize the process of creating and managing seat allocations in venues such as:
+#  UniSeat – Universal Smart Seating Arrangement System
 
-Examination halls
+A **Java Swing-based Smart Seating Management Application** built using the **Model-View-Controller (MVC)** pattern.  
+The project helps to **generate, visualize, and manage seating arrangements** in venues such as examination halls, auditoriums, and conferences.
 
-Auditoriums
 
-Seminar or conference halls
 
-Wedding/event spaces
+## Overview
 
-It allows users to:
+The **UniSeat System** simplifies seating management by allowing users to:
 
-Upload participant or student lists (e.g., from a .docx file).
+* Upload participant lists (simulated `.docx` processing)
+* Generate venue layouts (rows × columns)
+* Toggle seat availability dynamically
+* View real-time statistics: total, available, and occupied seats
+* Simulate automatic seating assignment
 
-Design venue layouts with a specified number of rows and columns.
+Built entirely in **Java**, it demonstrates strong use of:
+* Object-Oriented Programming (OOP)
+* Swing GUI Components
+* MVC design pattern
 
-View seat status dynamically (available or occupied).
 
-Simulate automatic seat assignment to participants.
 
-Display key statistics such as total, occupied, and available seats.
+##  Project Structure
 
-This system demonstrates principles of Object-Oriented Programming (OOP), GUI design, and the Model-View-Controller (MVC) pattern — separating data (Model), user interface (View), and logic (Controller).
