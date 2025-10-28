@@ -9,7 +9,7 @@ The project helps to **generate, visualize, and manage seating arrangements** in
 
 The **UniSeat System** simplifies seating management by allowing users to:
 
-* Upload participant lists (simulated `.docx` processing)
+* Upload participant lists (simulated `.xlsx` processing)
 * Generate venue layouts (rows × columns)
 * Toggle seat availability dynamically
 * View real-time statistics: total, available, and occupied seats
